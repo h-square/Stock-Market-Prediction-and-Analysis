@@ -1,0 +1,28 @@
+.reports{
+    width: 100%;
+    height: 200%;
+}
+.report-detail{
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 2vh;
+    background-color: #004B82;
+    border-radius: 4vh;
+    padding: 1vh;
+}
+.report-label{
+    margin-left: 3%;
+    font-size: 3.5vmin;
+    color: whitesmoke;
+    width: 35%;
+    font-family: system-ui;
+}
+.report-input
+{
+    margin-left: 5%;
+    width: 50%;
+    height: 5vh;
+    color: green;
+    font-size: 3.5vmin;
+    border-bottom: 0ch;
+}

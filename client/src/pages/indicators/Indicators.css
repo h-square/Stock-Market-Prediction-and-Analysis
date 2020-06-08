@@ -1,0 +1,10 @@
+
+.heading
+{
+    height: 8vh;
+    width: 100%;
+    font-size: 6vmin;
+    text-align: center;
+    color: black;
+    font-family: system-ui;
+}

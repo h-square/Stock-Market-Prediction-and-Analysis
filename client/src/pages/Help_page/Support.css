@@ -1,0 +1,60 @@
+.support-container {
+    display: table;
+    width: 100%;
+  }
+  
+  .left-half {
+    background-image: url('../../Images/help_new.png');
+    position: absolute;
+    left: 0px;
+    width: 50%;
+  }
+  
+  .right-half {
+    background-image: url('../../Images/help_new.png');
+    position: absolute;
+    right: 0px;
+    width: 50%;
+  }
+
+.article {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    padding: 20px;
+}
+  
+
+.support-header
+{
+    height: 8vh;
+    width: 100%;
+    font-size: 6vmin;
+    text-align: center;
+    color: black;
+    font-family: system-ui;
+}
+
+
+.para
+{
+    font-family: system-ui;
+    font-size: 21px;
+    color:black;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    text-align: center;
+}
+
+.paraimg
+{
+    background-image: url('../../Images/help_new.png');
+    font-family: system-ui;
+    font-size: 21px;
+    color:black;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    text-align: center;
+}

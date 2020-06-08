@@ -1,0 +1,183 @@
+.container {
+    display: table;
+    width: 100%;
+  }
+  
+  .left-half {
+    background-image: url('help_new.png');
+    position: absolute;
+    left: 0px;
+    width: 50%;
+  }
+  
+  .right-half {
+    background-image: url('help_new.png');
+    position: absolute;
+    right: 0px;
+    width: 50%;
+  }
+
+.article {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    padding: 20px;
+}
+  
+
+.option
+{
+    width: 100%;
+    height: 200%;
+}
+.header
+{
+    height: 8vh;
+    width: 100%;
+    font-size: 6vmin;
+    text-align: center;
+    color: black;
+    font-family: system-ui;
+}
+.h3-text
+{
+    margin-top: 3.5vh;
+    margin-left: 1%;
+    font-size: 3vmin;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.para
+{
+    font-family: system-ui;
+    font-size: 21px;
+    color:black;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    text-align: center;
+}
+
+.paraimg
+{
+    background-image: url('help_new.png');
+    font-family: system-ui;
+    font-size: 21px;
+    color:black;
+    line-height: 1.5;
+    letter-spacing: .5px;
+    text-align: center;
+}
+.form-input
+{
+    margin-left: 5%;
+    width: 50%;
+    height: 5vh;
+    color:black;
+    font-size: 2.5vmin;
+    border-bottom: 0ch;
+}
+.form-row
+{
+    width: 100%;
+}
+.form-group
+{
+    width: 100%;
+    margin-top: 2vh;
+    font-family: system-ui;
+}
+.form-label
+{
+    margin-left: 3%;
+    font-size: 2.5vmin;
+    color: whitesmoke;
+    width: 35%;
+    font-family: system-ui;
+}
+
+.form-label-for-radio
+{
+    margin-left: 3%;
+    font-size: 2.5vmin;
+    color: whitesmoke;
+    font-family: system-ui;
+    width: 35%;
+}
+
+.form-input-for-radio
+{
+    width: 10%;
+    height: 3vmin;
+    color: rgb(56, 40, 4);
+    font-size: 2.5vmin;
+}
+.form-btn
+{
+    background-color:#867373;
+    border-radius: 5cm;
+    width: 30%;
+    margin-left: 13%;
+    padding: 10px;
+    font-size: 2.5vmin;
+    color: rgb(32, 7, 7);
+    text-align: center;
+}
+.option-detail
+{
+    margin-left: 5%;
+    margin-top: 3%;
+    margin-bottom: 0%;
+    background-color: #004B82;
+    height: 50vh;
+    width: 40%;
+    border-radius: 4vh;
+    padding: 1vh;
+    text-align: center;
+}
+
+.stock-detail
+{
+    margin-bottom: 5%;
+    margin-left: 35%;
+    margin-top: 8%;
+    background-color: #004B82;
+    height: 20vh;
+    width: 30%;
+    border-radius: 4vh;
+    padding: 1vh;
+    border: rgb(194, 33, 33);
+    text-align: center;
+
+}
+
+.stock1-detail
+{
+    margin-bottom: 5%;
+    margin-left: 5%;
+    margin-top: 8%;
+    background-color: #004B82;
+    height: 20vh;
+    width: 30%;
+    border-radius: 4vh;
+    padding: 1vh;
+    border: rgb(194, 33, 33);
+    text-align: center;
+
+}
+
+.option-submit
+{
+    background-color: #004B82;;
+    border-radius:0.5cm;
+    width: 7%;
+    margin-left: 10%;
+    padding: 15px;
+    font-size: 15pt;
+    color: whitesmoke;
+    text-align: center;
+    margin-top: 1%;
+    
+    
+}

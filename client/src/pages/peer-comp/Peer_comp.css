@@ -1,0 +1,11 @@
+.peer-detail{
+    margin-bottom: 5%;
+    margin-left: 25%;
+    margin-top: 1%;
+    background-color: #004B82;
+    height: 25vh;
+    width: 50%;
+    border-radius: 4vh;
+    padding: 1vh;
+    border: rgb(194, 33, 33);
+}
